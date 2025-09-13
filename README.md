@@ -1,6 +1,6 @@
 ## Hi👋 i am sarang patil 
 
-<!--
+
 **sarang0226/sarang0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 🌐 LinkedIn:: https://www.linkedin.com/in/sarang-patil-b3273434b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - 😄 Pronouns:: ... Patil
 - ⚡ Fun fact:: ...I love turning raw data into meaningful insights!
--->
+
