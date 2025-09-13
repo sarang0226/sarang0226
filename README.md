@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Python, SQL, Data Science,power Bi, and Git/GitHub
 - 📫 How to reach me:: sarangpatil0226@gmail.com
 - 🌐 LinkedIn:: https://www.linkedin.com/in/sarang-patil-b3273434b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- 😄 Pronouns:: ... Patil
 - ⚡ Fun fact:: ...I love turning raw data into meaningful insights!
 
