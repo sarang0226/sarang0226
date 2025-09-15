@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on... QUALTECH SOFTWARE PVT. LTD.
+- 🔭 I’m currently working as an intern in ... QUALTECH SOFTWARE PVT.LTD.
 - 🌱 I’m currently learning ...hands-on experience in Data Science & AI-related projects .
 - 👯 I’m looking to collaborate on Machine Learning, NLP, and Data Analytics projects
 - 🤔 I’m looking for help with ...Deep Learning and Cloud-based AI solutions .
